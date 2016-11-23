@@ -1,9 +1,5 @@
 /*
-   This program is for this robot http://www.thingiverse.com/thing:
-   It is used with https://goo.gl/2NXmgy Android app.
-   When it is on, it is on auto-pliot mode. Movements are randomly performed to go forward, backward, left and right.
-   To play with Android phone, download the app https://play.google.com/store/apps/details?id=pl.mobilerobots.vacuumcleanerrobot
-   The Bluetooth UART must be installed. To control by the App, firstly pair and connect the Bluetooth UART with your Android phone.
+   This program is for this robot http://www.thingiverse.com/thing:1912377   
 */
 #include <Arduino.h>
 #include "Oscillator.hpp"
